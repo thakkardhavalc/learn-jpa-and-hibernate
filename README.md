@@ -1,2 +1,1 @@
-# learn-jpa-and-hibernate
-in28minutes
+# learn-jpa-and-hibernate-in28minutes
